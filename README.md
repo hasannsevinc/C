@@ -1,4 +1,4 @@
-C Notlarim\n
+**C Notlarim**
 Kullandigim Kaynaklar:
 - Practical Programming in C (MIT 2010)
 - geeksforgeeks.com
