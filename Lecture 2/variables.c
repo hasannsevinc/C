@@ -61,4 +61,15 @@ Number Systems:
 0x12 = hexadecimal
 0b1010 = binary
 
+Placeholders in Format Strings:
+
+Placeholder         Variable Type           Function Use
+--------------------------------------------------------    
+%c                  char                    printf/scanf
+%d                  int                     printf/scanf
+%f                  float                   printf/scanf
+%f                  double                  printf
+%lf                 double                  printf/scanf
+
+
 */
