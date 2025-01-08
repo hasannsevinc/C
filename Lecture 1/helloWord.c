@@ -7,9 +7,9 @@ int main() // ana fonksiyon
 
 
     return 0; // geri donus degeri
-    // geri donus degeri eger 0 ya da pozitif bir sayi donerse
-    // basariyla calismistir.
-    // negatif bir sayi ile donerse program run-time hata verir.
+    // geri donus degeri eger 0  basariyla calismistir.
+    // pozitif bir sayi ya da negatif bir sayi ile donerse program 
+    // hatali calismistir
 }
 
 /*

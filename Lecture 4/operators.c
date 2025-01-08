@@ -63,6 +63,8 @@ int main(void)
 • ! (NOT): Returns true if the operand is false
 !0 = 1
 !1 = 0
+!9 = 0
+!-1 = 0
 
 -- Bitwise Operators:
 • & (AND): Bitwise AND
@@ -95,6 +97,7 @@ int main(void)
 4 >> 1 = (10) : 2
 
 Decrement and Increment Operators:
+!!! degiskenin bellekteki degerine uygulanir !!!
 • ++: Increment operator
 • --: Decrement operator
 
